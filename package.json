@@ -49,5 +49,11 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "eslintConfig": {
+    "extends": [
+      "plugin:storybook/recommended",
+      "plugin:storybook/recommended"
+    ]
+  }
 }
